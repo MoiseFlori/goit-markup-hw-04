@@ -135,7 +135,7 @@ a.logo .studio {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url(../images/people-office\ 1.png);
+    url(../images/people-office.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -321,11 +321,6 @@ a.logo .studio {
 .third-section-img {
   width: 100%;
   border-radius: 4px 4px 0 0;
-}
-
-/* Stiluri pentru link-urile sociale */
-.social-links {
-  margin-top: 8px;
 }
 
 .social-list {
