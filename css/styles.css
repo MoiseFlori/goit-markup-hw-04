@@ -379,7 +379,7 @@ a.logo .studio {
 
 .portfolio-item {
   flex-basis: calc((100% - 48px) / 3);
-  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .portfolio-info {
@@ -451,7 +451,6 @@ a.logo .studio {
 .footer-container {
   margin-right: 120px;
 }
-
 
 .paragraph-social-media {
   font-weight: 500;
