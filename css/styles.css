@@ -443,10 +443,12 @@ a.logo .studio {
   padding: 100px 0;
   background-color: #2e2f42;
 }
-
-.footer-container {
+.footer-all{
   display: flex;
   align-items: baseline;
+}
+
+.footer-container {
   margin-right: 120px;
 }
 
